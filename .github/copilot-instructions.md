@@ -9,7 +9,7 @@
 - [x] Create and run task: not needed for a static app.
 - [x] Launch project: opened and verified in the browser; Python is not installed for local HTTP serving.
 - [x] Ensure documentation is complete: README and project instructions are present.
-- [ ] Publish to GitHub Pages: repository created and app files uploaded; deployment in progress.
+- [x] Publish to GitHub Pages: public repository and live site at https://sreenaath8-blip.github.io/jarvis-personal-assistant/.
 
 ## Project Guidance
 
